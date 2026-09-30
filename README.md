@@ -3,4 +3,4 @@
 ## La nostra definizione di commit atomico
 > Un commit atomico è un commit che contiene una sola 
 modifica logica e completa, descritta da un messaggio 
-chiaro e specifico. -
+chiaro e specifico.
