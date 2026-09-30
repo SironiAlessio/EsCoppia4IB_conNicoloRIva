@@ -2,3 +2,6 @@
 ## Chi fa cosa- `comandi-base.md` → <A>- `branch-e-merge.md` → <B>- `errori-comuni.md` → <B> (su branch, fase 3)
 ## La nostra definizione di commit atomico
 > un commit atomico è un commit che può esplodere
+> Un commit atomico è un commit che contiene una sola 
+modifica logica e completa, descritta da un messaggio 
+chiaro e specifico.
