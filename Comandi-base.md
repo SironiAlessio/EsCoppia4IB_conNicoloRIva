@@ -5,4 +5,4 @@ git commit -m “messaggio” : Fa un commit con un titolo
 git switch bugfix : cambia nel branch 'bugfix'
 git branch : mostra in che branch siamo
 
-> Il comando che uso di più è: 
+> Il comando che uso di più è: git add . ,perchè lo uso ogni volta per fare il commit
